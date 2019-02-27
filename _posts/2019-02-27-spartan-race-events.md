@@ -1,9 +1,9 @@
 ---
-author: cett
+author: 1
 title: Spartan Race Events
 featimg: Spartan_Race_logo.png
-tags: [text]
-category: [sport]
+tags: [sport]
+category: [html]
 ---
 Spartan Race versenyek elérhető információit gyűjtő és összegző oldal.
 
