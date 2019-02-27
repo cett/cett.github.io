@@ -1,13 +1,11 @@
 full_rebuild: true
-name: Gridster
-description: the material experience for jekyll
-destination: jekyllbuild
-url: #place url
-baseurl: #place folder name if site is served in subfolder
+name: Cett
+url: https://cett.github.io
+baseurl: cett.github.io
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
-infinite_scroll: true #change to false if you want to use pagination
+infinite_scroll: false
 gems: [jekyll-paginate]
 tag_dir: /tag
 category_dir: /category
