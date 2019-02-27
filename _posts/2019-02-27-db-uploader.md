@@ -1,9 +1,9 @@
 ---
-author: cett
+author: 1
 title: Dropbox Uploader
 featimg: dropbox.png
-tags: [text]
-category: [shell]
+tags: [shell]
+category: [development]
 ---
 Dropbox Uploader shell script projekt
 
